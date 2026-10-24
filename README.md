@@ -1,6 +1,4 @@
-# My Github Profile
-
-## Jonas Völler
+# Jonas Völler
 
 The name is Jonas and I am studying Data and Information Science at TH Köln. 
 I am currently on my third Semester, some of my current modules include:
@@ -9,18 +7,11 @@ I am currently on my third Semester, some of my current modules include:
 * Information Retrieval
 * Digitization and Web Technologies
 
-As part of the 
-<!--
-**Saichiiro2133/Saichiiro2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personally, I probably like video games a bit too much and am very interested in the industry behind them aka I have read too many financial reports than I want to admit.
+Movies and TV are also a big hobby of mine and I hope that my project team and I are able to whip up a cool presentation on if famous composers/(musicians are able to contribute to the financial success of movies.
 
-Here are some ideas to get you started:
+As part of the the Module Data Integration I am part of the following repos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Labs we work on during lectures [go lab repo](link to repo)
+* The Semester project I am a part of [go project repo](link to repo)
+
