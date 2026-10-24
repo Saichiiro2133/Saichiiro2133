@@ -1,6 +1,15 @@
-# 1 My Github Profile
+# My Github Profile
 
-## 2 Jonas Völler
+## Jonas Völler
+
+The name is Jonas and I am studying Data and Information Science at TH Köln. 
+I am currently on my third Semester, some of my current modules include:
+
+* Data Integration
+* Information Retrieval
+* Digitization and Web Technologies
+
+As part of the 
 <!--
 **Saichiiro2133/Saichiiro2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
