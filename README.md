@@ -12,6 +12,6 @@ Movies and TV are also a big hobby of mine and I hope that my project team and I
 
 As part of the the Module Data Integration I am part of the following repos:
 
-* Labs we work on during lectures [go lab repo](https://github.com/Saichiiro2133/data-integration-labs/tree/main)
+* Labs we work on during lectures [🔬lab repo](https://github.com/Saichiiro2133/data-integration-labs/tree/main)
 * The Semester project I am a part of [go project repo](link to repo)
 
